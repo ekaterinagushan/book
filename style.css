@@ -1,0 +1,45 @@
+@import "reset.css";
+ header,
+.panel {
+  font-family: Roboto;
+}
+
+.square {
+  width: 30px;
+  height:30px;
+  background:  solid #E5E5E5;
+  margin-left: 15px;
+  margin-top: -6px;
+}
+body > header {
+  display: flex;
+  justify-content: space-between;
+  color: #E5E5E5;
+  background-color: #9F9C98;
+  font-size: 13px;
+  letter-spacing: 1px;
+  align-items: center;
+  height: 45px;
+
+}
+
+ img{
+   position: absolute;
+   margin-top: 50px;
+   margin-left: 50px;
+
+ }
+
+ p {
+   margin-top: 253px;
+   margin-left: 236px;
+
+
+ }
+
+header ul {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+
+}
